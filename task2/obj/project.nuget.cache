@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vW9S0rXEkP0Tg1kJjR6xGjoPslCmnogDIq9oWI+JR0XylvGWpS2001yf85pHD6a1SjtLHGHQGOZ3KJ5ga64TeQ==",
+  "dgSpecHash": "5dDLXOWkiBha/j2pmiuR2abWrBMZ3PGVzO/e34QoGYOfiHFmYV517ebyQtBXUgq1y5TUXS51D08WzbV9bw+CLw==",
   "success": true,
-  "projectFilePath": "D:\\Работа\\FRONTEND\\lesson_1\\task2\\task2.csproj",
+  "projectFilePath": "D:\\Работа\\frontend\\lesson_1\\task2\\task2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

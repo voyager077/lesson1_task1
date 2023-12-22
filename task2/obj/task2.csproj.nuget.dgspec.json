@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Работа\\FRONTEND\\lesson_1\\task2\\task2.csproj": {}
+    "D:\\Работа\\frontend\\lesson_1\\task2\\task2.csproj": {}
   },
   "projects": {
-    "D:\\Работа\\FRONTEND\\lesson_1\\task2\\task2.csproj": {
+    "D:\\Работа\\frontend\\lesson_1\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Работа\\FRONTEND\\lesson_1\\task2\\task2.csproj",
+        "projectUniqueName": "D:\\Работа\\frontend\\lesson_1\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "D:\\Работа\\FRONTEND\\lesson_1\\task2\\task2.csproj",
+        "projectPath": "D:\\Работа\\frontend\\lesson_1\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Voyager\\.nuget\\packages\\",
-        "outputPath": "D:\\Работа\\FRONTEND\\lesson_1\\task2\\obj\\",
+        "outputPath": "D:\\Работа\\frontend\\lesson_1\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Voyager\\AppData\\Roaming\\NuGet\\NuGet.Config"
